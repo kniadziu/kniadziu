@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kniadziu@gmail.com
 - ⚡ Fun fact: 
 
+# Technologies
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
