@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on interesting projects
 - 
 - 💬 Ask me about ...
-- 📫 How to reach me: [<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:kniadziu@gmail.com">](mailto:kniadziu@gmail.com)
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/grzegorz-koziel/">
+- 📫 How to reach me: [<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:kniadziu@gmail.com">](mailto:kniadziu@gmail.com) [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/grzegorz-koziel/">](https://www.linkedin.com/in/grzegorz-koziel/)
 
 
 - ⚡ Fun fact: 
