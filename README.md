@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 
 # Technologies
 
-<img alt="Java" src="https://img.shields.io/badge/-java-java">
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+<img alt="Java" src="https://img.shields.io/badge/-Java-Java">
+<img alt="HTML" src="https://img.shields.io/badge/-HTML-HTML">
+
