@@ -1,6 +1,6 @@
 #  Hi, my name is Gregory 👋
 
-software engineer, Scrum master
+software engineer, Scrum master, project manager
 
 <!--
 **kniadziu/kniadziu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
