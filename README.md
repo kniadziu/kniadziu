@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 <img src= "https://img.shields.io/badge/-CLIPPER-black"> <img src= "https://img.shields.io/badge/-Turbo Pascal-orange">
 
-<img src= "https://img.shields.io/badge/-VBA-yellow"> <img src="https://img.shields.io/badge/-SAP-lightgray?style=plastic&logo=sap"> 
+<img src= "https://img.shields.io/badge/-VBA-yellow"> <img src="https://img.shields.io/badge/-SAP-red?style=plastic&logo=sap"> 
