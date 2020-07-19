@@ -1,4 +1,4 @@
-### Hi, my name is Gregory 👋
+# Hi, my name is Gregory 👋
 
 software engineer, Scrum master
 
@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 
 # Technologies
+
+<img alt="brightgreen" src="https://img.shields.io/badge/-brightgreen-brightgreen">
 https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
