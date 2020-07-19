@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 # Technologies
 
-<img alt="brightgreen" src="https://img.shields.io/badge/-brightgreen-brightgreen">
+<img alt="Java" src="https://img.shields.io/badge/-java-java">
 https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
