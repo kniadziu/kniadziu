@@ -18,7 +18,5 @@ Here are some ideas to get you started:
 
 # Technologies
 
-<img alt="Java" src="https://img.shields.io/badge/-Java-Java">
-<img alt="HTML" src="https://img.shields.io/badge/-HTML-red">
-<img alt="C#"   src= "https://img.shields.io/badge/-C Sharp-black">
+<img alt="Java" src="https://img.shields.io/badge/-Java-Java"> <img alt="HTML" src="https://img.shields.io/badge/-HTML-red"> <img alt="C#"   src= "https://img.shields.io/badge/-C Sharp-black">
 
