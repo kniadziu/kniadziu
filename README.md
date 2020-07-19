@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 
 # Technologies
-<img src= "https://img.shields.io/badge/-Java-Java"> <img src= "https://img.shields.io/badge/-C#-black"> <img src= "https://img.shields.io/badge/-SQL-yellow"> <img src= "https://img.shields.io/badge/-Hibernate-yellowgreen"> 
+<img src= "https://img.shields.io/badge/-Java-Java"> <img src= "https://img.shields.io/badge/-C Sharp-black"> <img src= "https://img.shields.io/badge/-SQL-yellow"> <img src= "https://img.shields.io/badge/-Hibernate-yellowgreen"> 
 
 <img src= "https://img.shields.io/badge/-npm-black"> <img src= "https://img.shields.io/badge/-Maven-red"> <img src= "https://img.shields.io/badge/-Travis-orange"> <img src= "https://img.shields.io/badge/-GIT-brown"> 
 
