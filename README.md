@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 
 - 💬 Ask me about ...
 - 📫 How to reach me: <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=kniadziu@gmail.com">
+ <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=kniadziu@gmail.com">
+
 - ⚡ Fun fact: 
 
 # Technologies
