@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 
  <img src="https://img.shields.io/badge/-HTML-red"> <img src= "https://img.shields.io/badge/-CSS-yellow"> <img src="https://img.shields.io/badge/-Vue.js-green">
 
+<img src= "https://img.shields.io/badge/-CLIPPER-black"> <img src= "https://img.shields.io/badge/-Turbo Pascal-orange">
+
+<img src= "https://img.shields.io/badge/-VBA-yellow"> 
