@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 
 # Technologies
- c="https://img.shields.io/badge/-Java-Java"> <img src= "https://img.shields.io/badge/-C Sharp-black">
+<img src= "https://img.shields.io/badge/-Java-Java"> <img src= "https://img.shields.io/badge/-C Sharp-black">
 
-<img sr <img src="https://img.shields.io/badge/-HTML-red"> <img src= "https://img.shields.io/badge/-CSS-yellow"> <img src="https://img.shields.io/badge/-Vue.js-red">
+ <img src="https://img.shields.io/badge/-HTML-red"> <img src= "https://img.shields.io/badge/-CSS-yellow"> <img src="https://img.shields.io/badge/-Vue.js-green">
 
