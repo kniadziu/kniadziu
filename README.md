@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 <img alt="Java" src="https://img.shields.io/badge/-Java-Java">
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-HTML">
-<img alt="C#"   src= https://img.shields.io/badge/-c#-c#-black">
+<img alt="C#"   src= https://img.shields.io/badge/-C#-C#">
 
