@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬  Ask me about ...
 - 📫  How to reach me: [<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:kniadziu@gmail.com">](mailto:kniadziu@gmail.com) [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/grzegorz-koziel/">](https://www.linkedin.com/in/grzegorz-koziel/)
 
-- ⚡ Fun fact: usually I am dad of two daugters
+- ⚡ Fun fact: Usually I am the father of two princesses
 
 # Technologies
 <img src= "https://img.shields.io/badge/-Java-red?style=plastic&logo=Java&logoColor=white"> <img src= "https://img.shields.io/badge/-C Sharp-black?style=plastic&logo=csharp&logoColor=white"> <img src= "https://img.shields.io/badge/-SQL-yellow?style=plastic&logo=microsoftsqlserver&logoColor=white"> <img src= "https://img.shields.io/badge/-Hibernate-yellowgreen">  <img src= "https://img.shields.io/badge/-Python-yellow?style=plastic&logo=python&logoColor=white">  <img src= "https://img.shields.io/badge/-C++-green?style=plastic&logo=cplusplus"> 
