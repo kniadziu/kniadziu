@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### My Tech Stack
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![C#](http://img.shields.io/badge/-C Sharp-black?style=plastic&logo=csharp&logoColor=white)
+<img src= "https://img.shields.io/badge/-C Sharp-black?style=plastic&logo=csharp&logoColor=white")
 <img src= "https://img.shields.io/badge/-SQL-yellow?style=plastic&logo=microsoftsqlserver&logoColor=white"> 
 <img src= "https://img.shields.io/badge/-Hibernate-yellowgreen">  <img src= "https://img.shields.io/badge/-Python-yellowstyle=plastic&logo=python&logoColor=white">  
 <img src= "https://img.shields.io/badge/-C++-green?style=plastic&logo=cplusplus"> 
