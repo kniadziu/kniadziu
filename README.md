@@ -25,18 +25,14 @@ Here are some ideas to get you started:
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
  
-<img src= "https://img.shields.io/badge/-npm-black?style=plastic&logo=npm"> 
+![npm](https://img.shields.io/badge/-npm-black?style=plastic&logo=npm) 
 <img src= "https://img.shields.io/badge/-Travis CI-orange?style=plastic&logo=Travis"> 
-<img src= "https://img.shields.io/badge/-GIT-brown?style=plastic&logo=GitHub"> 
 
- <img src="https://img.shields.io/badge/-HTML5-lightgray?style=plastic&logo=Html5"> 
- <img src= "https://img.shields.io/badge/-CSS3-yellow?style=plastic&logo=CSS3"> 
- <img src="https://img.shields.io/badge/-Vue.js-blue?style=plastic&logo=Vue.js">
-
-<img src= "https://img.shields.io/badge/-CLIPPER-black"> 
+![Clipper](https://img.shields.io/badge/-CLIPPER-black)
+![VBA](https://img.shields.io/badge/-VBA-yellow)
 <img src= "https://img.shields.io/badge/-Turbo Pascal-orange">
 
-<img src= "https://img.shields.io/badge/-VBA-yellow"> 
+
 
 
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
