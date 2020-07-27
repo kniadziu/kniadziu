@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 ### My Tech Stack
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-<img src= "https://img.shields.io/badge/-C Sharp-black?style=plastic&logo=csharp&logoColor=white"> <img src= "https://img.shields.io/badge/-SQL-yellow?style=plastic&logo=microsoftsqlserver&logoColor=white"> <img src= "https://img.shields.io/badge/-Hibernate-yellowgreen">  <img src= "https://img.shields.io/badge/-Python-yellow?style=plastic&logo=python&logoColor=white">  <img src= "https://img.shields.io/badge/-C++-green?style=plastic&logo=cplusplus"> 
+![C#](https://img.shields.io/badge/-C Sharp-black?style=plastic&logo=csharp&logoColor=white)
+<img src= "https://img.shields.io/badge/-SQL-yellow?style=plastic&logo=microsoftsqlserver&logoColor=white"> <img src= "https://img.shields.io/badge/-Hibernate-yellowgreen">  <img src= "https://img.shields.io/badge/-Python-yellow?style=plastic&logo=python&logoColor=white">  <img src= "https://img.shields.io/badge/-C++-green?style=plastic&logo=cplusplus"> 
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 <img src= "https://img.shields.io/badge/-npm-black?style=plastic&logo=npm"> <img src= "https://img.shields.io/badge/-Maven-red?style=plastic&logo=apachemaven"> <img src= "https://img.shields.io/badge/-Travis CI-orange?style=plastic&logo=Travis"> <img src= "https://img.shields.io/badge/-GIT-brown?style=plastic&logo=GitHub"> 
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
