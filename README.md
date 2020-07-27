@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
  
 ![npm](https://img.shields.io/badge/-npm-black?style=plastic&logo=npm) 
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 <img src= "https://img.shields.io/badge/-Travis CI-orange?style=plastic&logo=Travis"> 
 
 ![Clipper](https://img.shields.io/badge/-CLIPPER-black)
@@ -47,6 +48,7 @@ Here are some ideas to get you started:
 
 #### Database
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
