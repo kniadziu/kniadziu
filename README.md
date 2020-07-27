@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 <img src= "https://img.shields.io/badge/-SQL-yellow?style=plastic&logo=microsoftsqlserver&logoColor=white"> 
-<img src= "https://img.shields.io/badge/-Hibernate-yellowgreen">  <img src= "https://img.shields.io/badge/-Python-yellowstyle=plastic&logo=python&logoColor=white">  
-<img src= "https://img.shields.io/badge/-C++-green?style=plastic&logo=cplusplus"> 
-
+<img src= "https://img.shields.io/badge/-Hibernate-yellowgreen">  
+<
 <img src= "https://img.shields.io/badge/-npm-black?style=plastic&logo=npm"> 
 <img src= "https://img.shields.io/badge/-Travis CI-orange?style=plastic&logo=Travis"> 
 <img src= "https://img.shields.io/badge/-GIT-brown?style=plastic&logo=GitHub"> 
@@ -37,7 +39,6 @@ Here are some ideas to get you started:
 <img src= "https://img.shields.io/badge/-Turbo Pascal-orange">
 
 <img src= "https://img.shields.io/badge/-VBA-yellow"> 
-<img src="https://img.shields.io/badge/-SAP-red?style=plastic&logo=sap"> 
 
 
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
@@ -47,6 +48,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+[![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/LuizCarlosAbbott/)]
 
 #### Database
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
@@ -58,4 +60,5 @@ Here are some ideas to get you started:
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![SAP](http://img.shields.io/badge/-SAP-red?style=plastic&logo=sap) 
 
