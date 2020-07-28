@@ -1,4 +1,5 @@
 #  Hi, my name is Gregory 👋
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kniadziu&repo=Sudoku)](https://github.com/kniadziu/Sudoku)
 
 software engineer, Scrum master, project manager
 
