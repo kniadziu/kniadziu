@@ -61,3 +61,6 @@ Here are some ideas to get you started:
 
 # Some of my Github Stats
 ![McGregor github stats](https://github-readme-stats.vercel.app/api?username=kniadziu&show_icons=true)
+
+# Compact Language Card Layout
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kniadziu&layout=compact)](https://github.com/kniadziu/github-readme-stats)
