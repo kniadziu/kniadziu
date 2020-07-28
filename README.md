@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![SAP](http://img.shields.io/badge/-SAP-red?style=plastic&logo=sap) 
 
-# Some of my Github Stats
+#### Some of my Github Stats
 ![McGregor github stats](https://github-readme-stats.vercel.app/api?username=kniadziu&show_icons=true&theme=prussian)
 
-# Compact Language Card Layout
+#### Compact Language Card Layout
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kniadziu&layout=compact)](https://github.com/kniadziu/github-readme-stats)
