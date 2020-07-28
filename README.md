@@ -1,5 +1,4 @@
 #  Hi, my name is Gregory 👋
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kniadziu&repo=Sudoku)](https://github.com/kniadziu/Sudoku)
 
 software engineer, Scrum master, project manager
 
@@ -65,3 +64,6 @@ Here are some ideas to get you started:
 
 #### Compact Language Card Layout
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kniadziu&layout=compact)](https://github.com/kniadziu/github-readme-stats)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kniadziu&repo=Sudoku)](https://github.com/kniadziu/Sudoku)
