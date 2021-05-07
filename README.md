@@ -1,6 +1,6 @@
 #  Hi, my name is Gregory 👋
 
-software engineer, Scrum master, project manager
+Business oriented engineer, Scrum master, project manager
 
 <!--
 **kniadziu/kniadziu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,9 +8,9 @@ software engineer, Scrum master, project manager
 Here are some ideas to get you started:
 -->
 
-- 🔭  I’m currently working on database projects 
-- 🌱  I’m currently learning C#
-- 👯  I’m looking to collaborate on interesting projects
+- 🔭  I am currently working on typical business solutions related to data analysis and visualization, 
+- 🌱  I am involved in defining customer needs and requirements and their implementation in production
+- 👯  Every day I look for new challenges that allow me to learn new things and constantly improve myself
 <!--
 - 💬  Ask me about ...
 -->
@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-yellowgreen)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
+<!--
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+-->
  
 ![npm](https://img.shields.io/badge/-npm-black?style=plastic&logo=npm) 
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
@@ -40,15 +42,16 @@ Here are some ideas to get you started:
 <!--
  ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff) 
 -->
-#### Frontend
+#### Frontend (basic level)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 <!--
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+
 -->
 ![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/LuizCarlosAbbott/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 #### Database
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
